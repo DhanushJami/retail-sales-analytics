@@ -117,15 +117,15 @@ The project includes comprehensive exploratory data analysis to uncover trends, 
 
 ### Category-wise Sales
 
-![Category Sales](Insights/category_sales.png)
+![Category Sales](Insights/Category-sales.png)
 
 ### Regional Sales Performance
 
-![Regional Sales](Insights/regional_sales.png)
+![Regional Sales](Insights/regional-sales.png)
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](Insights/correlation_heatmap.png)
+![Correlation Heatmap](Insights/correlation-heatmap.png)
 
 ---
 
